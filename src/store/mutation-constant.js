@@ -1,0 +1,3 @@
+export const SETEQUIMENTSCOUNTS = "SETEQUIMENTSCOUNTS";
+export const SETLOGIN = "SETLOGIN";
+export const SETLOGOUT = "SETLOGOUT";
